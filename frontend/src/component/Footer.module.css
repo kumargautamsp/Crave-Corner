@@ -1,0 +1,12 @@
+.fText {
+    height: 10vh;
+    background-color: hsl(227, 29%, 13%);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+p {
+    margin-bottom: 1.5rem;
+}
